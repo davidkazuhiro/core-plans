@@ -1,1 +1,7 @@
 environment = "production"
+
+[db]
+host = "localhost"
+name = "discourse"
+username = "discourse"
+password = ""
